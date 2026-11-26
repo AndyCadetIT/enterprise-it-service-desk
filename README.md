@@ -45,12 +45,11 @@ The project focuses on identifying technical problems, performing diagnostic tes
 
 ## Project Deliverables
 
-- Technical Project Report
-- Incident Records
-- Knowledge Base Documentation
-- Nine supporting screenshot evidence entries
-- Workstation Asset Inventory
-- Incident Escalation Procedure
+| Document | Description |
+|---|---|
+| [Technical Project Report](./Enterprise%20IT%20Service%20Desk%20-%20Technical%20Project%20Report.pdf) | Detailed troubleshooting investigations, screenshot evidence, asset inventory, and technical findings. |
+| [Incident Records](./IT%20Service%20Desk%20-%20Incident%20Records.pdf) | Three simulated service desk tickets documenting diagnosis, resolution, and closure verification. |
+| [Knowledge Base](./IT%20Service%20Desk%20-%20Knowledge%20Base.pdf) | Three reusable troubleshooting articles for account access, DNS, and Outlook support. |
 
 ## Key Takeaway
 
