@@ -92,7 +92,7 @@ All activities were performed within a controlled training environment using sim
 |---|---|
 | [Technical Project Report](./Enterprise%20IT%20Service%20Desk%20-%20Technical%20Project%20Report.pdf) | Detailed troubleshooting investigations, screenshot evidence, asset inventory, and technical findings. |
 | [Incident Records](./IT%20Service%20Desk%20-%20Incident%20Records.pdf) | Three simulated service desk tickets documenting diagnosis, resolution, and closure verification. |
-| [Knowledge Base](./IT%20Service%20Desk%20-%20Knowledge%20Base.pdf) | Three reusable troubleshooting articles for account access, DNS, and Outlook support. |
+| [Knowledge Base](IT%20Service%20Desk%20-%20Knowledge%20Base.pdf) | Three published troubleshooting articles covering account access, DNS resolution, and Outlook support. |
 
 ## Key Takeaway
 
